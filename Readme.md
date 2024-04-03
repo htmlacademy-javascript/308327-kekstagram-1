@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Павел Немчинов](https://up.htmlacademy.ru/javascript-individual/1/user/308327).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Усов](https://htmlacademy.ru/profile/id1493681).
 
 ---
 
