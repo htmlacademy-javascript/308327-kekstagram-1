@@ -85,7 +85,6 @@ const createPicture = (index) => ({
 
 const getPictures = () =>
   Array.from({ length: UPPER_RANGE }, (_, pictureIndex) =>
-    createPicture(pictureIndex + 1)
-  );
+    createPicture(pictureIndex + 1));
 
 export {getPictures};
