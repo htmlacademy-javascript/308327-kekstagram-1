@@ -16,8 +16,13 @@ const getIdGenerator = () => {
   };
 };
 
+const isEscapeKey = (evt) => evt.key === 'Escape';
+const isEnterKey = (evt) => evt.key === 'Enter';
+
 export {
   getRandomInteger,
   getRandomArrayElement,
-  getIdGenerator
+  getIdGenerator,
+  isEscapeKey,
+  isEnterKey
 };
